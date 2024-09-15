@@ -6,7 +6,8 @@
 [3. Краткая информация о данных](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Краткая-информация-о-данных) \
 [4. Этапы работы над проектом](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Этапы-работы-над-проектом) \
 [5. Результат](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Результат) \
-[6. Выводы](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Выводы) \
+[7. Ссылки](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Ссылки)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -25,8 +26,8 @@
 Учимся писать хороший код на python
 
 ### Краткая информация о данных
-Источник: Компьютер генерирует случайное число.
-Тип: Целое число в диапазоне от 1 до 100.
+Источник: Компьютер генерирует случайное число. \
+Тип: Целое число в диапазоне от 1 до 100. \
 Использование: Проверка скорости алгоритма в угадывании числа.
 
 :arrow_up: [к оглавлению](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Оглавление)
@@ -53,5 +54,8 @@
 Из полученных результатов понятно, что третий метод самый эффективный, так как благодаря бинарному поиску максимальное количество попыток требуемое для определения числа равно 6, а среднее количество попыток равно 5.
 
 :arrow_up: [к оглавлению](https://github.com/DaniilFad/test_ds/tree/main/project_0/README.md#Оглавление)
+
+### Ссылки
+[1. Google Colab с проектом](https://colab.research.google.com/drive/1GcohUj9btrJc---L9fDUC-Oce11wNoTP?usp=sharing)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень благодарен, если отиетите репозиторий и профиль ⭐️⭐️⭐️-дами
